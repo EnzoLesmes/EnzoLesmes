@@ -1,14 +1,13 @@
 # **Hi, I'm Enzo** 👋
 
-### Backend-focused Computer Science student
+### Systems student focused on Backend development
 
-I'm a student pursuing a degree in **Systems Analysis** in Argentina, currently balancing coursework with a part-time job. I'm building my path toward **backend development**, working with Python, SQL, Docker and Git — and applying data structures and algorithms concepts as I go through my degree.
+Systems Analysis student in Argentina, building a solid foundation in algorithms, data structures, and programming logic. Focused on developing a backend profile with Python, Java, SQL, Docker and Git, combining academic training with hands-on projects.
 
-- 🎓 Studying Systems Analysis, covering algorithms, data structures, and math (algebra, mathematical analysis).
-- 💼 Working part-time while studying, so I build consistently rather than in bursts.
-- 🔭 Currently working on **GymTrack**, a full stack app project for an AI-first development course.
-- 🌱 Reinforcing data structures, recursion, and algorithmic complexity (Big O) this semester.
-- 📫 Reach me at: **enzolesmes.dev@gmail.com**
+- 🎓 Systems Analysis — algorithms, data structures, applied math.
+- 🔭 Building **GymTrack**, a full stack project with an AI-first approach.
+- 🌱 Deepening my knowledge of recursion and algorithmic complexity (Big O).
+- 📫 Contact: **enzolesmes.dev@gmail.com**
 
 ## My Skills Include
 
