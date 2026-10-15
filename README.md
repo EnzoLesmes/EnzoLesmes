@@ -14,8 +14,7 @@ I'm a Systems Analysis student in Argentina, focused on backend development. I l
 | Project | What it is | Stack |
 |---|---|---|
 | [**Tickets**](https://github.com/EnzoLesmes/Tickets) | Support ticket system with a documented API contract, layered backend (routes → services → repositories) and automated tests. In progress. | Python, FastAPI, pytest |
-| **GymTrack** | Workout tracker with routines and training history. | Python, SQLite |
-
+| [**GymTrack**](https://github.com/EnzoLesmes/gymtrack) | Workout tracker with routines and training history. | Python, SQLite |
 ## Skills
 
 #### Languages & frameworks
