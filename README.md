@@ -1,19 +1,27 @@
 # **Hi, I'm Enzo** 👋
 
-### Systems student focused on Backend development
+### Systems Analysis student building a Backend career with Python
 
-Systems Analysis student in Argentina, building a solid foundation in algorithms, data structures, and programming logic. Focused on developing a backend profile with Python, Java, SQL, Docker and Git, combining academic training with hands-on projects.
+I'm a Systems Analysis student in Argentina, focused on backend development. I learn by building: layered APIs, tested code, and clean separation of responsibilities, with an AI-assisted workflow where I review and question every decision.
 
-- 🎓 Systems Analysis — algorithms, data structures, applied math.
-- 🔭 Building **GymTrack**, a full stack project with an AI-first approach.
-- 🌱 Deepening my knowledge of recursion and algorithmic complexity (Big O).
+- 🎓 Systems Analysis (UNSAdA) — algorithms, data structures, applied math.
+- 🔨 Building a **support ticket API** with FastAPI, layered architecture and tests.
+- 🌱 Currently learning: PostgreSQL + Docker, then React.
 - 📫 Contact: **enzolesmes.dev@gmail.com**
 
-## My Skills Include
+## Projects
 
-#### Languages
+| Project | What it is | Stack |
+|---|---|---|
+| [**Tickets**](https://github.com/EnzoLesmes/Tickets) | Support ticket system with a documented API contract, layered backend (routes → services → repositories) and automated tests. In progress. | Python, FastAPI, pytest |
+| **GymTrack** | Workout tracker with routines and training history. | Python, SQLite |
+
+## Skills
+
+#### Languages & frameworks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Databases
@@ -27,9 +35,9 @@ Systems Analysis student in Argentina, building a solid foundation in algorithms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Check out my Social Media
+## Follow my progress
 
-I'm starting to share my progress as a developer — follow along:
+I'm starting to share my progress as a developer:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/enzo__00)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@EnzoLesmes)
@@ -38,4 +46,4 @@ I'm starting to share my progress as a developer — follow along:
 
 ---
 
-*This profile is a work in progress — it'll grow as I add more projects and skills through my degree.*
+*This profile is a work in progress — it grows as I ship more projects.*
